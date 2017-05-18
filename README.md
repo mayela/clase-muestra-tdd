@@ -10,3 +10,4 @@ Enlaces para profundizar más sobre TDD
 * [Diseño Ágil con TDD - Carlos Blé](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf)
 * [TDD basics](http://vanzaj.github.io/tdd-pytest/tdd-basics/)
 * [TDD with Python - Harry Percival](http://www.obeythetestinggoat.com/book/praise.harry.html)
+* [Test-driven Development by example](https://en.wikipedia.org/wiki/Test-Driven_Development_by_Example)
