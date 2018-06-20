@@ -2,7 +2,7 @@
 
 Pequeña demo para hacer un calculadora con TDD, una metodología de diseño orientado a pruebas que te ayuda a construir la lógica de programación a partir de ejemplos.
 
-[Presentacion](https://slides.com/mayela0x14/las-ventajas-de-tdd)
+[Presentacion](https://slides.com/mayela0x14/introduccion-tdd/)
 
 
 Enlaces para profundizar más sobre TDD
