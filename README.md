@@ -14,15 +14,13 @@ de mayor calidad.
 - Práctica
   - ¿Qué es un ambiente virtual de desarrollo?
   - Instalación de virtualenv
-    - Windows
-    - Mac
-    - Linux
   - Creación y activación de un ambiente virtual
   - Instalación de paquetes
   - Desarrollo de la función suma mediante pruebas
 - Ventajas y desventajas del desarrollo guiado por pruebas
+- Conclusión
 
-[Presentacion](https://slides.com/mayela0x14/introduccion-tdd/)
+[Presentacion](https://slides.com/mayela0x14/introduccion-tdd-8)
 
 
 Enlaces para profundizar más sobre TDD
