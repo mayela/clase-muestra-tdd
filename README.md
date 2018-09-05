@@ -1,6 +1,26 @@
-# Calculadora hecha bajo la metodología de diseño TDD y Python
+# Clase muestra TDD con Python
 
-Pequeña demo para hacer un calculadora con TDD, una metodología de diseño orientado a pruebas que te ayuda a construir la lógica de programación a partir de ejemplos.
+## Objetivo:
+
+Conocer la práctica de programación de desarrollo guiado por pruebas, que
+nos ayuda a reducir la sobre ingeniería de una funcionalidad y liberar software
+de mayor calidad.
+
+## Agenda
+
+- Pruebas unitarias
+- ¿De dónde viene el desarrollo guiado por pruebas?
+- ¿De qué va el desarrollo guidado por pruebas?
+- Práctica
+  - ¿Qué es un ambiente virtual de desarrollo?
+  - Instalación de virtualenv
+    - Windows
+    - Mac
+    - Linux
+  - Creación y activación de un ambiente virtual
+  - Instalación de paquetes
+  - Desarrollo de la función suma mediante pruebas
+- Ventajas y desventajas del desarrollo guiado por pruebas
 
 [Presentacion](https://slides.com/mayela0x14/introduccion-tdd/)
 
